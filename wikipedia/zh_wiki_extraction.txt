@@ -1,0 +1,154 @@
+================================================================================
+羊宮妃那 (Hina Youmiya) — Chinese Wikipedia Extraction
+================================================================================
+URL: https://zh.wikipedia.org/wiki/羊宮妃那
+Fetched: 2026-04-27
+Source: MediaWiki API (action=parse)
+
+================================================================================
+1. BIOGRAPHY (經歷)
+================================================================================
+
+Full Name: 羊宮 妃那 (ようみや ひな, Yōmiya Hina)
+Born: March 26, 2000 (age 26) — Nara Prefecture, Japan
+Agency: 青二製作 (Aoni Production) — Junior → 正所属 (regular member) as of April 11, 2025
+
+Timeline:
+- 3rd year of middle school: Inspired by Natsu's lines in "Fairy Tail" to pursue voice acting.
+  Started watching anime to keep up with friends, then became obsessed.
+- Dec 8, 2019: Passed "Project ANIMA" audition for the SAKUGAN heroine role,
+  becoming one of 7 finalists.
+- April 11, 2020: Joined Aoni Production (Junior).
+- April 9, 2023: Officially confirmed as Takamatsu Tomori, vocalist of MyGO!!!!!
+  in BanG Dream!.
+- 2024: Won the 18th Seiyu Awards — Best New Actor Award (新人声優賞).
+- April 11, 2025: Promoted to regular (正所属) status at Aoni Production.
+
+================================================================================
+2. NOTABLE ROLES (代表作 — listed on page)
+================================================================================
+
+Main/Famous Roles:
+- Yamada Anna — 僕の心のヤバイやつ (The Dangers in My Heart / 我內心的糟糕念頭)
+- Takamatsu Tomori — BanG Dream! It's MyGO!!!!! / Ave Mujica
+- Inui Shinju — その着せ替え人形は恋をする (My Dress-Up Darling / 戀上換裝娃娃)
+- Osanai Yuki — 小市民シリーズ (Shōshimin Series / 小市民系列)
+
+Full TV Anime Roles (2021–2026):
+2021: King's Raid (Raiden), Wonder Egg Priority, SELECTION PROJECT (Yagino Tsuchika),
+      Waccha PriMagi! (Rumi), Platinum End (Rokkaku Nanaka)
+2022: My Dress-Up Darling (Inui Shinju), Kunoichi Tsubaki (Mokuren),
+      Soredemo Ayumu wa Yosetekuru (Mikage Sakurako), 5-Oku-Nen Button (Hana-chan)
+2023: The Dangers in My Heart (Yamada Anna), BanG Dream! It's MyGO!!!!! (Takamatsu Tomori),
+      Oshi no Ko (Sumi Yuki), Hoshikuzu Telepath (Konohoshi Honami),
+      The Eminence in Shadow S2 (665)
+2024: The Dangers in My Heart S2, Shōshimin Series (Osanai Yuki),
+      Mayonaka Punch (Shinfū), Oshi no Ko S2
+2025: BanG Dream! Ave Mujica (Takamatsu Tomori), mono (Kurokuma Torahime),
+      Mobile Suit Gundam GQuuuuuuX (Lalah Sune), Aru Majo ga Shinu Made (Sophie Hayter),
+      Cuckoo's Fiancée S2 (Mochizuki Ai), WONDANCE (Wanda Hikari),
+      Fate/strange Fake (Haruri Borzak)
+2026: Oshi no Ko S3, Meitantei Precure (Watagashi), Hotel Inhumans S2 (Kirihara Shiba)
+
+Games:
+- Nikke: Goddess of Victory (Alice)
+- Azur Lane (Kala Ideas / Argus)
+- Uma Musume Pretty Derby (Mouyu Kenbi)
+- Honkai: Star Rail (Fūkin / 風堇) ← Chinese-originated game
+- Wuthering Waves (Tōki / 桃祈) ← Chinese-originated game
+- Tower of Saviors / 神魔之塔 (曼陀羅) ← Chinese-originated game
+- BanG Dream! Girls Band Party! (Takamatsu Tomori)
+
+Chinese Animation Dubbing (國外動畫配音):
+- Onmyoji: Heian Monogatari S3 (2022) — laundry woman, girl
+- Pause! Let Me Check the Walkthrough / 暫停！讓我查攻略 (2023) — Galatine
+
+================================================================================
+3. PERSONALITY & PERSONAL TRAITS (人物)
+================================================================================
+
+- Kendo 1st dan (劍道初段)
+- Hobbies: drawing/painting, reading, watching movies, listening to music,
+  acoustic guitar singing/playing, songwriting, composing
+- Special skill: Dance (learned from 5th grade through 3rd year of middle school)
+- Dialect: Kansai dialect (關西腔)
+- Likes to draw manga of her own lyrics
+- Loves chocolate and sweet potatoes (番薯)
+- Obsessive about tweets: drafts them dozens of times before posting,
+  often posts at exactly 20:30 in the evening
+- Favorite movie: 「明天，我要和昨天的妳約會」
+  (Tomorrow, I Will Date Yesterday's You / ぼくは明日、昨日のきみとデートする)
+- Loves Kana Hanazawa's performance as Onodera Kosaki in Nisekoi (偽戀)
+- Aunt (姨母) is a former voice actress
+- Collected stones in elementary school; now collects stickers
+
+================================================================================
+4. CHINESE WIKI-SPECIFIC / UNIQUE CONTENT
+================================================================================
+
+A. Maintenance Tags (only on Chinese wiki):
+   - "此條目體裁或許更宜作散文而非列表" (April 2025)
+     → This article's format may be better as prose rather than a list.
+   - "自2026年4月带有失效链接的条目" → has dead links as of April 2026
+   - "本地和维基数据均无相关图片" → no related images locally or on Wikidata
+
+B. Categories Unique to Chinese Wikipedia:
+   - 聲優獎新人聲優獎得主 (Seiyu Awards Best New Actor winner)
+   - CS1含有日语文本_(ja), CS1日语来源_(ja) (citation formatting)
+   - 與維基數據不同的Twitter用戶名 (Twitter username differs from Wikidata)
+
+C. Chinese-Originated Game Roles (notable because these games are from China):
+   - 崩壞：星穹鐵道 (Honkai: Star Rail) — 風堇 (Fūkin)
+   - 鳴潮 (Wuthering Waves) — 桃祈 (Tōki)
+   - 神魔之塔 (Tower of Saviors) — 凜潔心界•曼陀羅
+   - 暫停！讓我查攻略 (Chinese donghua she voiced in Japanese dub)
+   - 陰陽師·平安物語 (Onmyoji) S3 — voiced characters in Chinese animation
+
+D. Detailed Role Tables:
+   The Chinese wiki has extremely detailed role listings organized by:
+   - Year → Show → Role, with full references to Comic Natalie, official sites
+   - Separate sections for: TV Anime, OVA, Anime Films, Web Anime,
+     Foreign Animation Dubbing (國外動畫配音), Games, Audio Dramas (有聲劇),
+     Radio Dramas (廣播劇), Storyboard Radio Dramas (分鏡廣播劇),
+     ASMR, Radio Programs (廣播節目), Other
+   - The "國外動畫配音" section is uniquely Chinese — covers her work
+     on Chinese animations dubbed into Japanese.
+
+E. Character Song Discography (角色歌):
+   Full table of all character song releases with dates, song names, series.
+   Notably includes:
+   - MyGO!!!!! songs: 迷星叫, 音一会, 壱雫空, 迷跡波, etc.
+   - Uma Musume songs: STARTING FORCE, うまぴょい伝説, 黎明に咲く華
+   - SELECTION PROJECT unit songs
+
+F. Agency Colleague Lists:
+   Full listing of Aoni Production talent roster (male/female/Junior),
+   plus MyGO!!!!! & Ave Mujica member table and CRYCHIC lineup.
+   Also includes the complete Seiyu Awards winners table for context.
+
+================================================================================
+5. DIFFERENCES FROM JAPANESE WIKI (LIKELY)
+================================================================================
+
+Based on typical differences between ja.wikipedia and zh.wikipedia pages:
+
+- Chinese-Origin Content: Honkai Star Rail, Wuthering Waves, Tower of Saviors
+  game roles are likely NOT on the Japanese wiki (or are less prominent).
+- Chinese Animation Dubbing Section (國外動畫配音): Lists her roles
+  dubbing Chinese animations into Japanese — this section likely doesn't
+  exist on the Japanese wiki.
+- Article Quality Tags: The Chinese wiki explicitly tags the article as
+  needing prose conversion and having dead links.
+- Citation Style: Chinese wiki uses CS1 citation templates, includes
+  more Chinese-language sources.
+- Community Notes: The "需要改寫成文章敘述" tag suggests Chinese editors
+  feel the article is too list-heavy.
+- Detailed timeline: The Chinese wiki has especially rich detail on
+  her career progression with precise dates.
+
+================================================================================
+FILES CREATED
+================================================================================
+- /opt/data/zh_wiki_api.html — Raw HTML from MediaWiki API
+- /opt/data/zh_wiki_clean.txt — Full cleaned text (~18K chars)
+- /opt/data/zh_wiki_extraction.txt — This structured analysis

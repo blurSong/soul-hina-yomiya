@@ -1,0 +1,37 @@
+# Audio files (large WAV/MP3/WebM)
+audio/
+*.wav
+*.mp3
+*.webm
+*.ogg
+*.flac
+*.m4a
+
+# Python scripts (extraction tools)
+scripts/
+
+# Raw HTML archives (large, redundant with extracted text)
+archive/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/

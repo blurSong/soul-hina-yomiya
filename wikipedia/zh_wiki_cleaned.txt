@@ -1,0 +1,968 @@
+维基百科，自由的百科全书
+
+.mw-parser-output .mbox-text,.mw-parser-output .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .mbox-image{border:none;padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .mbox-imageright{border:none;padding:2px 0.9em 2px 0;text-align:center}.mw-parser-output .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .ambox{border-left-color:#36c!important}html.skin-theme-clientpref-night .mw-parser-output .ambox-speedy,html.skin-theme-clientpref-night .mw-parser-output .ambox-delete{border-left-color:#b32424!important}html.skin-theme-clientpref-night .mw-parser-output .ambox-speedy{background-color:#300!important}html.skin-theme-clientpref-night .mw-parser-output .ambox-content{border-left-color:#f28500!important}html.skin-theme-clientpref-night .mw-parser-output .ambox-style{border-left-color:#fc3!important}html.skin-theme-clientpref-night .mw-parser-output .ambox-move{border-left-color:#9932cc!important}html.skin-theme-clientpref-night .mw-parser-output .ambox-protection{border-left-color:#a2a9b1!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .ambox{border-left-color:#36c!important}html.skin-theme-clientpref-os .mw-parser-output .ambox-speedy,html.skin-theme-clientpref-os .mw-parser-output .ambox-delete{border-left-color:#b32424!important}html.skin-theme-clientpref-os .mw-parser-output .ambox-speedy{background-color:#300!important}html.skin-theme-clientpref-os .mw-parser-output .ambox-content{border-left-color:#f28500!important}html.skin-theme-clientpref-os .mw-parser-output .ambox-style{border-left-color:#fc3!important}html.skin-theme-clientpref-os .mw-parser-output .ambox-move{border-left-color:#9932cc!important}html.skin-theme-clientpref-os .mw-parser-output .ambox-protection{border-left-color:#a2a9b1!important}}此条目体裁或许更宜作散文而非列表。 ()
+.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)>div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme)>div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}html.skin-theme-clientpref-night .mw-parser-output .infobox td div:not(.notheme)[style]{background:transparent!important;color:var(--color-base,#202122)}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox td div:not(.notheme)[style]{background:transparent!important;color:var(--color-base,#202122)}}html.skin-theme-clientpref-night .mw-parser-output .infobox td div.NavHead:not(.notheme)[style]{background:transparent!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox td div.NavHead:not(.notheme)[style]{background:transparent!important}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table>caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table>tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}羊宫妃那配音演员原文名国籍 日本出生) 2000年3月26日26岁）出身地日本奈良县所属青二制作活动活动时期2021年－出道作ライデン（王之逆袭 意志的继承者）代表作山田杏奈（我心里危险的东西）高松灯（BanG Dream!）乾心寿（更衣人偶坠入爱河）小佐内由纪（小市民系列）配音演员：模板 | 分类
+羊宫妃那（日语：／，罗马化：，2000年3月26日—）是日本女性声优，隶属于青二制作。
+
+经历
+国中3年级的时候，被“妖精的尾巴”的主角纳兹所说的话折服，开始注意到声优职业的存在。朋友们比起她更喜欢看动画，为了能跟上话题开始看起来，那之后也沉迷于动画了。
+2019年12月8日，通过“Project ANIMA”动画第1弹《SAKUGAN》女主角的新人声优试音会，成为最终通过选拔的7位声优之一。
+2020年4月11日，宣布加入青二制作（Junior所属）。
+2023年4月9日，正式确认饰演《BanG Dream!》旗下乐队“MyGO!!!!!”的主唱高松灯。
+2024年，获得第18届声优奖新人声优赏。
+2025年4月11日，宣布成为青二事务所正所属。
+人物
+资格·执照：剑道初段
+兴趣：描画、读书、看电影、听音乐、木吉他弹唱、作词、作曲
+特长：舞蹈（小学5年级到中学3年级学了跳舞）
+方言：关西腔
+喜欢把作词中的内容画成漫画。
+非常喜欢吃巧克力和番薯。
+每次在发Twitter前都至少要打几十遍草稿，并且经常在晚上20:30发出。
+喜欢的电影是《明天，我要和昨天的你约会》。
+非常喜欢花泽香菜在《伪恋》中为小野寺小咲的配音。
+姨母是前声优。
+国小时有收集石头的习惯，现在变成收集贴纸
+演出作品
+※主要角色以粗体字来显示。
+
+电视动画
+2021年
+（ライデン）
+奇蛋物语 Wonder Egg Priority（海滩上的女孩子）
+舞伎家的料理人（舞妓）
+水果篮子 The Final（女儿）
+不要欺负我，长瀞同学（女子）
+死神少爷与黑女仆（年轻女仆A）
+SELECTION PROJECT（八木野土香）
+星光魔法（琉玫）
+关于前辈很烦人的事（女性B、女子B、少女、女高中生A、花店店员、家庭餐厅店员、女性社员A、巫女、女性社员B）
+SAKUGAN（客）
+白金终局（六阶堂菜菜香）
+BUILD DIVIDE -#000000-（咖啡厅店员）
+2022年
+食锈末世录（嬢）
+更衣人偶坠入爱河（乾心寿）
+星光魔法（琉玫）
+白金终局（学生D）
+86－不存在的战区－（女性）
+女忍者椿的心事（木莲）
+BUILD DIVIDE -#FFFFFF-（成员）
+史上最强大魔王转生为村民A（吉妮·芬·德·萨尔凡）
+雀魂 PONG☆（秘书）
+即使如此依旧步步进逼（御影樱子）
+5亿年按钮【官方】～菅原壮太的超短篇～（はなちゃん）
+黄金神威（小孩）
+森林家族 芙蕾雅的快乐日记（菲利普、杰森）
+孤独摇滚！（学生）
+2023年
+转生公主与天才千金的魔法革命（蕾妮·席昂）
+阿鲁斯的巨兽（库弥、实验体）
+不相信人类的冒险者们好像要去拯救世界（米莉璐）
+关于我在无意间被隔壁的天使变成废柴这件事（女学生）
+别当欧尼酱了！（店员）
+想要成为影之实力者！（665）
+我心里危险的东西（山田杏奈）
+【我推的孩子】（寿美奈美）
+祭品公主与兽之王（米莎）
+Dr.STONE 石纪元 NEW WORLD（女性）
+BanG Dream! It's MyGO!!!!!（高松灯）
+AYAKA -绫岛奇谭-（八凪幸人〈幼少期〉）
+森林家族 芙蕾雅的GO FOR DREAM！（莎莉）
+堀与宫村 -piece-（女学生A）
+主宰七魔剑（帕梅拉·戈顿）
+公司的小小前辈（来栖朱莉）
+想要成为影之实力者！ 2nd season（665）
+堤亚穆帝国物语～从断头台开始，公主重生后的逆转人生～（艾莉丝·理特斯坦）
+星灵感应（小之星穗波）
+2024年
+我心里危险的东西（第2期）（山田杏奈）
+愚蠢天使与恶魔共舞（女学生1）
+佐佐木与文鸟小哔（偶像）
+战队大失格（战斗员XX）
+夜樱家大作战（百合）
+小市民系列（小佐内由纪）
+深夜Punch（谱风）
+【我推的孩子】（第2期）（寿美奈美）
+2025年
+BanG Dream! Ave Mujica（高松灯）
+中年男的异世界网购生活（莉莉丝）
+鬼人幻灯抄（姬川美夜香）
+小市民系列（第2期）（小佐内由纪）
+直至魔女消逝（苏菲·海特）
+mono女孩（玄熊虎代）
+机动战士高达：跨时之战（拉拉·逊）
+随兴旅 -That's Journey-（坂本）
+杜鹃婚约（第2期）（望月爱）
+彻夜之歌 Season2（）
+更衣人偶坠入爱河 Season 2（乾心寿）
+为你着迷（佐藤实）
+元祖！BanG Dream（高松灯）
+星辰光辉更胜太阳（小野寺翡翠）
+弹珠汽水瓶里的千岁同学（内田优空）
+绝妙舞步（湾田光莉）
+不死不运 凛冬篇（贝蒂）
+2026年
+【我推的孩子】（第3期）（寿美奈美）
+名侦探光之美少女！（棉糖）
+Fate/strange Fake（哈露莉·波尔札克）
+杀手旅店（第2期）（桐原シバ）
+
+OVA
+超次元战记 战机少女 ～全是涅普涅普的感谢祭～（2021年，观众）
+动画电影
+2022年
+辉夜大小姐想让我告白－永不结束的初吻－（学生）
+2024年
+四重星（大河久留美）
+剧场版 BanG Dream! It's MyGO!!!!!（高松灯）
+2026年
+剧场版 我心里危险的东西（山田杏奈）
+网络动画
+高达破坏者 战斗部落（2021年，GB庆典工作人员、活动参加者）
+The Missing 8（2022年，邮递员玛丽、头饰的声音）
+迷恋你，直到永远（2022年，客人4）
+HELLO OSAKA（2023年，花咲兔冥）
+总之就是非常可爱 女子高中篇（2023年，宇佐美潮）
+ツイヤバ（2023年，山田杏奈）
+国外动画配音
+阴阳师·平安物语 第三季〈中国〉（2022年，洗衣女子、少女）
+〈中国〉（2023年，加拉廷）
+游戏
+2020年
+（石山本愿寺、平井城）
+2021年
+动物朋友3（日本水獭）
+Over Eclipse（天津四、角宿一）
+问答RPG 魔法使与黑猫维兹（莉妮妲）
+怪物弹珠（2021年-2024年 皮姆、菲雅、罗拔）
+2022年
+（ヘスティアー）
+（アイシャ）
+（秦こころ）
+魔法纪录 魔法少女小圆外传（水名露）
+胜利女神：妮姬（爱丽丝）
+碧蓝航线（卡菈·伊迪亚斯）
+圣火降魔录 英雄云集（塞慈）
+2023年
+莱莎的炼金工房3 ～终结之炼金术士与秘密钥匙～（卡菈·伊迪亚斯）
+宿命回响（自由射手）
+碧蓝航线（百眼巨人）
+（リディオ）
+圣火降魔录 英雄云集（库瓦希尔）
+（ウェラジーモフ）
+BanG Dream! 少女乐团派对（高松灯）
+白猫Project（）
+（雫）
+2024年
+突击莉莉 Last Bullet（槇若菜）
+东方スペルカーニバル（西行寺幽幽子）
+赛马娘 Pretty Derby（谋勇兼备）
+鸣潮（桃祈）
+2025年
+崩坏：星穹铁道（风堇）
+卡厄思梦境（小春）
+神魔之塔 (凛洁心界•曼陀罗)
+
+有声剧
+变身为布萨猫的懦弱小姐，被最可怕的军人公爵捡到差点昏倒（2023年，シフォン（マリー））
+幕末动乱美少女伝（2024年，谷干城）
+瑕疵新娘（2024年，有声漫画版，白莲寺菜菜绪）
+广播剧
+十二ヶ月の杀人（2020年，七月，）
+新しい生活（2020年，玛利亚，）
+分镜广播剧
+现在, 正在谈恋爱。（2021年，水泽聪美）
+ASMR
+お昼寝大好き部长さんと一绪にまったりお昼寝效率研究会（2023年，宫ノ坂まりか）
+ギャル恋☆ASMR ヒナと一绪にボイトレしよ!（2024年，雏见川姫菜）
+广播节目
+※记号表示说明网络广播。
+
+羊宫妃那の声ラブ（2021年，超!A&G+）※
+MyGO!!!!!の“迷子集会”（2023年－播出中，YouTube）※
+（2023年－播出中，超!A&G+）※
+其他
+Pripara x Kiratto Pri☆Chan x Waccha Primagi！Winter Live 2022（2022年，琉玫（声音出演））
+ The LIVE！ ～第五十八怪～（2023年，フジテレビONE）
+音乐唱片分类
+角色歌
+
+发售日
+商品名
+演唱者
+曲名
+备注
+
+2021年
+
+10月27日
+SELECTION PROJECT 主题曲CD
+
+9-tie
+
+“Glorious Days”
+
+电视动画《SELECTION PROJECT》主题曲
+
+“Only one yell”
+
+电视动画《SELECTION PROJECT》片尾曲
+
+“SELECTION HEROINE”
+
+电视动画《SELECTION PROJECT》相关曲目
+
+12月22日
+SELECTION PROJECT 
+
+“Naked Blue”“”
+
+电视动画《SELECTION PROJECT》剧中曲
+
+Splasoda° 
+
+“SPARKRASH”
+
+2022年
+
+1月26日
+SELECTION PROJECT BD・DVD第2巻特典CD
+
+Splasoda° 
+
+“PARTY×PARTY”
+
+电视动画《SELECTION PROJECT》相关曲目
+
+2月25日
+SELECTION PROJECT BD・DVD第3巻特典CD
+
+八木野土香（羊宫妃那）
+
+“Only one yell”
+
+7月6日
+女忍者椿的心事 赤音组音乐集
+
+申班 
+
+“”
+
+电视动画《女忍者椿的心事》片尾曲
+
+赤音组～子丑寅卯辰巳午未申酉戌亥～ 
+
+“”
+
+10月9日
+-
+
+珍妮弗·纯恋·索尔（）、琉玫（羊宫妃那）
+
+“Believe”
+
+电视动画《星光魔法》剧中曲
+
+11月9日
+迷星叫
+
+MyGO!!!!! 
+
+“迷星叫”“名无声”
+
+《BanG Dream!》相关曲目
+
+2023年
+
+4月12日
+音一会
+
+MyGO!!!!! 
+
+“音一会”“潜在表明”“影色舞”
+
+《BanG Dream!》相关曲目
+
+8月9日
+壱雫空
+
+“壱雫空”
+
+电视动画《BanG Dream! It's MyGO!!!!!》主题曲
+
+“栞”
+
+电视动画《BanG Dream! It's MyGO!!!!!》片尾曲
+
+“焚音打”
+
+电视动画《BanG Dream! It's MyGO!!!!!》相关曲目
+
+11月1日
+迷迹波
+
+“碧天伴走”“春日影（MyGO!!!!! ver.）”“诗超绊”“迷路日々”
+
+电视动画《BanG Dream! It's MyGO!!!!!》剧中曲
+
+“歌いましょう鸣らしましょう”
+
+游戏《BanG Dream! 少女乐团派对》相关曲目
+
+“无路矢”
+
+《BanG Dream!》相关曲目
+
+2025年
+
+3月5日
+WINNING LIVE 24
+
+黄金船 (上田瞳)、中山庆典 (下地紫野)、千明代表 (天海由梨奈)、谋勇兼备 (羊宫妃那)、莱因力量 (小岛菜菜惠)、勇敢之心 (希水汐)、火神 (佳原萌枝)、黄金巨匠(日笠阳子)、梦之旅 (吉冈茉祐)、超常骏骥 (日比优理香)、放爆装束 (紫月杏朱彩)、杏目 (石原夏织)、旺紫丁 (中岛由贵)、放声欢呼 (夏目妃菜)、唯独爱你 (久保田未梦)、创世驹 (真名瀬日和)、机伶金花 (小田杏树)
+
+“STARTING FORCE”“うまぴょい伝说”
+
+游戏《赛马娘 Pretty Derby》相关曲目
+
+7月9日
+WINNING LIVE 28
+
+谋勇兼备 (羊宫妃那)、目白山峰 (东山奈央)、强击 (伊藤彩沙)、爱如往昔 (宫下早纪)、贵妇人 (芹泽优)、杏目 (石原夏织)、放声欢呼 (夏目妃菜)、唯独爱你 (久保田未梦)、创世驹 (真名瀬日和)
+
+“黎明に咲く华”“うまぴょい伝说”
+
+游戏《赛马娘 Pretty Derby》相关曲目
+
+注记
+
+ ）、今鹈凪咲（）、八木野土香（羊宫妃那）、淀川逢生（岩桥由佳）、小泉诗（白河水菜）、山鹿栞（花井美春）、当麻真子（下地紫野）
+
+ ）、今鹈凪咲（）、八木野土香（羊宫妃那）、淀川逢生（岩桥由佳）
+
+组合成员
+
+参考资料
+
+ ]. （原始内容存档于2022-03-28）.
+
+ ]. （原始内容存档于2023-03-07）.
+
+ ]. （原始内容存档于2023-06-05） .
+
+ ] .
+
+ ]. （原始内容存档于2023-06-03） .
+
+ ]. （原始内容存档于2024-08-16）.
+
+ ]. （原始内容存档于2025-07-01） .
+
+ ]. （原始内容存档于2022-05-03） .
+
+ ]. （原始内容存档于2023-07-15） .
+
+ ]. （原始内容存档于2021-07-10） .
+
+ ]. （原始内容存档于2021-11-15） .
+
+ ] –通过Twitter . 
+
+ ]. （原始内容存档于2021-12-16） .
+
+ ]. （原始内容存档于2022-01-14） .
+
+ ]. （原始内容存档于2022-10-28） .
+
+ ]. （原始内容存档于2023-07-27） .
+
+ ]. （原始内容存档于2022-10-15） .
+
+ ]. （原始内容存档于2022-09-27） .
+
+ ]. （原始内容存档于2022-12-06） .
+
+ ]. （原始内容存档于2023-07-21） .
+
+ ]. （原始内容存档于2023-06-22） .
+
+ ]. （原始内容存档于2023-09-06） .
+
+ ]. （原始内容存档于2023-07-12） .
+
+ ]. （原始内容存档于2023-11-23） .
+
+ ]. （原始内容存档于2024-02-13） .
+
+ ]. （原始内容存档于2024-01-16） .
+
+ ]. （原始内容存档于2024-03-09） .
+
+ ]. （原始内容存档于2025-08-13）.
+
+ ]. （原始内容存档于2026-01-01） .
+
+ ]. （原始内容存档于2025-08-23） .
+
+ ]. （原始内容存档于2025-06-26） .
+
+ ]. （原始内容存档于2025-07-26） .
+
+ ]. （原始内容存档于2025-08-26） .
+
+ ]. （原始内容存档于2025-05-14） .
+
+ ]. （原始内容存档于2025-10-09）.
+
+ ]. （原始内容存档于2025-08-10） .
+
+ ]. （原始内容存档于2025-02-18） .
+
+ ]. （原始内容存档于2025-12-22） .
+
+ ]. （原始内容存档于2026-01-12） .
+
+ ] .
+
+ ]. （原始内容存档于2024-02-16） .
+
+ ]. （原始内容存档于2024-04-29） .
+
+ ]. （原始内容存档于2025-07-01） .
+
+ ] .
+
+ ]. （原始内容存档于2023-06-15） .
+
+ ]. （原始内容存档于2023-08-24） .
+
+ ]. （原始内容存档于2020-08-31） .
+
+ ]. （原始内容存档于2020-09-17） .
+
+ ]. （原始内容存档于2023-03-07） .
+
+ ]. （原始内容存档于2023-03-07） .
+
+ ]. （原始内容存档于2022-11-21） .
+
+ ]. 原始内容存档于2024-12-24 .
+
+ ]. （原始内容存档于2022-06-07） .
+
+ ]. （原始内容存档于2023-05-11） .
+
+ ]. （原始内容存档于2023-03-07） .
+
+ ].
+
+ ]. （原始内容存档于2022-12-12） .
+
+ ]. （原始内容存档于2022-11-29）.
+
+ ] .
+
+ ] .
+
+ ]. （原始内容存档于2023-06-09） .
+
+ ]. （原始内容存档于2023-06-17） .
+
+ ]. （原始内容存档于2023-07-05） .
+
+ ]. （原始内容存档于2023-08-29） .
+
+ ]. （原始内容存档于2024-02-20） .
+
+ ]. （原始内容存档于2024-02-16） .
+
+ ]. （原始内容存档于2024-01-03） .
+
+ ]. （原始内容存档于2023-11-03） .
+
+ ]. （原始内容存档于2023-04-04） .
+
+ ]. （原始内容存档于2023-04-04） .
+
+ ]. （原始内容存档于2023-04-05） .
+
+ ]. 原始内容存档于2021-07-11 .
+
+ ]. （原始内容存档于2023-05-24） .
+
+ ]. （原始内容存档于2023-04-04） .
+
+ ]. （原始内容存档于2023-05-12） .
+
+外部链接
+
+羊宫妃那的X（前Twitter）账号
+.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:" :"}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd::after,.mw-parser-output .hlist-pipe li::after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd::after,.mw-parser-output .hlist-hyphen li::after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd::after,.mw-parser-output .hlist-comma li::after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:"（"counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li::after{content:"，"}.mw-parser-output .sslist li::after{content:"；"}.mw-parser-output .cslist li:last-child::after,.mw-parser-output .sslist li:last-child::after{content:none}.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{text-align:center;padding-left:1em;padding-right:1em}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd;color:inherit}.mw-parser-output .navbox-list{border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf;color:inherit;position:relative}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf;color:inherit}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff;color:inherit}.mw-parser-output .navbox-even{background-color:#f7f7f7;color:inherit}.mw-parser-output .navbox-odd{background-color:transparent;color:inherit}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em;width:auto;padding-left:0.2em;padding-right:0.2em;position:absolute;left:1em}.mw-parser-output .navbox .mw-collapsible-toggle{margin-left:0.5em;position:absolute;right:1em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:110%;margin:0 8em}.mw-parser-output .navbar-ct-mini{font-size:110%;margin:0 5em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}查论编主席
+久保进（创业者）
+古市利雄（代表董事社长）
+所属声优男性
+
+赤羽根健治
+阿座上洋平
+
+新井良平
+
+石川英郎
+
+矶部弘
+
+稻田彻
+
+岩田光央
+江川央生
+江原正士
+
+太田真一郎
+
+大场真人
+冈本宽志
+
+置鮎龙太郎
+
+织田优成
+
+落合福嗣
+小野坂昌也
+挂川裕彦
+风间信彦
+粕谷雄太
+蟹江俊介
+
+金本凉辅
+神谷浩史
+河内孝博
+川津泰彦
+神奈延年
+私市淳
+岸尾大辅
+岸野幸正
+北川米彦
+桐本拓哉
+银河万丈
+草尾毅
+
+幸野善之
+小林俊夫
+小林通孝
+
+阪脩
+坂井易直
+阪口大助
+
+佐佐木望
+
+佐藤正治
+
+里内信夫
+
+盐屋浩三
+柴田秀胜
+岛崎信长
+岛田敏
+菅沼久义
+
+高冢正也
+高户靖广
+
+竹内良太
+竹本英史
+龙田直树
+田中秀幸
+田中大文
+田中亮一
+田边幸辅
+
+户谷公人
+中井和哉
+
+西脇保
+NEW YOUNG
+沼田祐介
+
+野岛健儿
+野岛裕史
+
+乃村健次
+桥诘知久
+
+半田裕典
+
+平井启二
+
+广中雅志
+深川和征
+福原耕平
+
+古川登志夫
+古谷彻
+宝龟克寿
+堀秀行
+堀之纪
+
+增谷康纪
+真地勇志
+松风雅也
+松野太纪
+松原大典
+
+真殿光昭
+三浦祥朗
+绿川光
+
+三宅淳一
+宫坂俊藏
+宫崎宽务
+
+森田成一
+
+山田真一
+
+吉水孝宏
+龙谷修武
+
+女性
+相泽舞
+新千惠子
+厚地彩花
+有岛萌优
+安西英美
+伊仓一惠
+
+一龙斋贞弥
+一木千洋
+伊藤加奈惠
+井上富美子
+井上麻里奈
+井上美纪
+井上里奈
+上田瞳
+上村典子
+
+浦和惠
+宇和川惠美
+江森浩子
+
+大空直美
+大和田仁美
+
+奥谷枫
+小仓舞子
+嘉数由美
+
+阴山真寿美
+笠原留美
+
+金子夕雪
+鹿野优以
+鎌田梢
+川口宰曜子
+
+川庄美雪
+川名真知子
+北滨晴子
+金月真美
+
+桑岛法子
+国府田麻理子
+高野麻里佳
+香里有佐
+小松由佳
+小松里歌
+小山茉美
+小山裕香
+今野宏美
+
+斋藤彩夏
+
+齐藤佑圭
+佐仓绫音
+
+佐佐木亚纪
+笹木绫子
+佐藤朱
+佐藤聪美
+佐藤智惠
+泽城美雪
+盐山由佳
+鹿野润
+嶋方淳子
+下地紫野
+庄司宇芽香
+白石凉子
+进藤尚美
+杉山佳寿子
+
+铃木真仁
+铃木麻里子
+
+住友七绘
+住友优子
+关根有咲
+
+高木早苗
+高岛雅罗
+高桥花林
+
+立野香菜子
+田中荣理奈
+田中真弓
+
+辻美优
+津田美奈美
+
+津村真琴
+
+铁炮冢叶子
+
+照井春佳
+
+富泽美智惠
+丰嶋真千子
+顿宫恭子
+中友子
+中岛千里
+中村尚子
+中山沙罗
+长江里加
+长久友纪
+南场千绘子
+二木静美
+西川宏美
+西田裕美
+西原久美子
+野口百合
+野泽雅子
+
+野中蓝
+萩森侚子
+花房里枝
+
+疋田由香里
+久川绫
+日比爱子
+
+平野文
+
+广桥凉
+藤井幸代
+藤野朋子
+藤卷惠理子
+堀江美都子
+
+前田爱
+
+前田千亚纪
+牧岛夕雪
+摩味
+满仲由纪子
+三上枝织
+
+水城丽奈
+水泽史绘
+水田山葵
+
+三田友子
+皆口裕子
+
+三轮胜惠
+森下由树子
+
+柳泽三千代
+山口奈奈
+山口茧
+山口由里子
+山崎和加奈
+
+山下麻美
+
+山根绮
+山本悠夕雪
+山本圭子
+山本百合子
+
+悠木碧
+
+吉村那奈美
+米本千珠
+刘婧荦
+
+和多田美咲
+渡边菜生子
+渡边美佐
+
+Junior
+浅野良介
+浅见泰生
+芦田萌奈
+安立阳介
+天希花音
+安室志穗
+新井遥夏
+荒木唯织
+石川拓也
+石冢瑞姬
+板野光步
+稻叶风太
+稻冈晃大
+井上宁子
+
+上杉华子
+宇津宫千穗
+宇野翔真
+榎本莲
+江畠洋平
+大久保舞子
+冈﨑阳平
+冈本彩夏
+冈本卓也
+小仓舞子
+尾高庆安
+小平桃歌
+小野元春
+春日樱
+影山优亚
+片贝直生
+角仓英里子
+川口樱
+川口莉奈
+菅野哲平
+橘内良平
+木村圭吾
+
+国枝慧
+熊谷主树
+仓木理帆
+后藤惠里菜
+权内隆介
+齐藤明日美
+坂田惠理歌
+坂田将吾
+
+佐藤悠雅
+篠冢理子
+清水健佑
+下川幸乃
+白泽由梨
+新保玲
+园田翔
+高田哲树
+匠
+
+竹内大生
+竹田海渡
+田中启太郎
+田中沙耶
+田中章贵
+田边幸辅
+玉田志织
+
+鹤野有纱
+
+寺田瑞希
+寺元七都子
+富冈佑介
+冨田华奈
+土井飞雄马
+中井允
+中村光树
+夏目妃菜
+西村俊树
+根本京里
+桥本庆
+长谷川天音
+羽田茉夏
+服部友香
+早坂领晏
+林美咲
+日向朔公
+广冈璃奈
+广濑有纪
+福井爽香
+藤泽奖
+古川将树
+古里纱希
+外尾谦吾
+火山太田
+增永萌子
+松嶌杏实
+间宫香
+丸岩明日香
+丸口咲
+水田新菜
+水野绚渡
+
+宫田海地
+宫部祐磨
+三好五月
+元吉夕雪子
+森本太登
+森本千寻
+八木沼凌
+谷嶋骏温
+山下步
+山田真理惠
+羊宫妃那
+吉永理沙
+渡邉遥香
+过往所属声优过往所属声优相关公司
+青二音乐出版
+青二Entertainment
+青二塾
+
+查论编 & 乐团MyGO!!!!!
+高松灯
+羊宫妃那
+千早爱音
+立石凛
+要乐奈
+青木阳菜
+长崎爽世
+小日向美香
+椎名立希
+林鼓子
+Ave Mujica
+三角初华／Doloris
+佐佐木李子
+若叶睦／Mortis
+渡濑结月
+八幡海铃／Timoris
+冈田梦以
+祐天寺若麦／Amoris
+米泽赤音
+丰川祥子／Oblivionis
+高尾奏音
+CRYCHIC
+高松灯
+羊宫妃那
+若叶睦
+渡濑结月
+长崎爽世
+小日向美香
+椎名立希
+林鼓子
+丰川祥子
+高尾奏音
+sumimi
+纯田真奈
+反田叶月
+三角初华
+佐佐木李子
+音乐Ave Mujica专辑
+Alea jacta est
+ELEMENTS
+Completeness
+歌曲
+KiLLKiSS
+媒体电视动画
+It's MyGO!!!!!
+Ave Mujica
+游戏
+少女乐团派对！
+交织的乐章
+
+查论编新人声优奖2020年代22 梅田修一朗、直田姬奈、永濑安奈、日向未南、若山诗音 | 23 伊驹百合绘、榊原优希、户谷菊之介、原菜乃华、羊宫妃那 | 24 石桥阳彩、鹈泽正太郎、七海弘希、林梨花、结川麻希 | 25 木村太飞、高野大河、寺泽百花、中山祥德、菱川花菜、藤寺美德、三川华月、村上真夏
