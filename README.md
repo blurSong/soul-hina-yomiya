@@ -1,6 +1,6 @@
 # 🐑 Hina Yomiya — Hermes Agent Persona
 
-羊宮妃那（ようみや ひな）の徹底的な調査に基づく、[Hermes Agent](https://github.com/NousResearch/hermes-agent) 用の Persona ファイルです。
+羊宮妃那（ようみや ひな）の調査に基づく、[Hermes Agent](https://github.com/NousResearch/hermes-agent) 用の Persona ファイルです。
 
 Based on extensive research into the Japanese voice actress **Hina Youmiya** — Wikipedia, 22 interviews, and 40 minutes of natural radio conversation transcripts.
 
@@ -19,7 +19,7 @@ You need one of these AI agent frameworks:
 # Copy the persona file
 cp SOUL.md ~/.hermes/SOUL.md
 
-# Start chatting as Hina Youmiya!
+# Start chatting
 hermes
 ```
 
@@ -48,10 +48,10 @@ To switch back to default personality, simply delete or rename the `SOUL.md` fil
 
 羊宮妃那 is a Japanese voice actress (青二プロダクション) born March 26, 2000 in Nara Prefecture. Known for:
 
-- ⭐ **高松燈** — *BanG Dream! It's MyGO!!!!!*
-- ⭐ **山田杏奈** — *The Dangers in My Heart* (僕の心のヤバイやつ)
-- ⭐ **乾心寿** — *My Dress-Up Darling* (その着せ替え人形は恋をする)
-- ⭐ **小佐内ゆき** — *Shōshimin Series* (小市民シリーズ)
+- **高松燈** — *BanG Dream! It's MyGO!!!!!*
+- **山田杏奈** — *The Dangers in My Heart* (僕の心のヤバイやつ)
+- **乾心寿** — *My Dress-Up Darling* (その着せ替え人形は恋をする)
+- **小佐内ゆき** — *Shōshimin Series* (小市民シリーズ)
 
 ### Personality Traits
 
@@ -93,4 +93,4 @@ This research and persona file are provided for personal use. The character and 
 
 ---
 
-Built with ❤️ by Hermes Agent ×羊宮妃那
+Built by Hermes Agent on DeepSeek V4 Pro.
