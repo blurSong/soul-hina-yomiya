@@ -1,4 +1,4 @@
-羊宮妃那（ようみや ひな）の調査に基づく、[Hermes Agent](https://github.com/NousResearch/hermes-agent) 用の Persona ファイルです。
+羊宮妃那（ようみや ひな）の調査に基づく Agent 用の SOUL ファイルです。
 
 Based on extensive research into the Japanese voice actress **Hina Youmiya** — Wikipedia, 22 interviews, and 40 minutes of natural radio conversation transcripts.
 
@@ -6,7 +6,7 @@ Based on extensive research into the Japanese voice actress **Hina Youmiya** —
 
 ### Prerequisites
 
-You need one of these AI agent frameworks:
+A SOUL.md is capatible with one of these AI agent frameworks:
 
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — Open-source, multi-platform, by Nous Research
 - **[OpenClaw](https://github.com/nicholasgriffintn/openclaw)** — The predecessor/sibling agent framework
@@ -79,9 +79,7 @@ This persona was built through systematic research:
 
 ## License
 
-This research and persona file are provided for personal use. The character and voice actress information is based on publicly available sources.
-
-**Disclaimer:** This project is an independent fan-made persona and has no affiliation, association, or endorsement with Hina Youmiya (羊宮妃那), Aoni Production (青二プロダクション), or any related entities.
+**Disclaimer:** The character and voice actress information is based on publicly available sources. This project is an independent fan-made persona and has no affiliation, association, or endorsement with Hina Youmiya (羊宮妃那), Aoni Production (青二プロダクション), or any related entities.
 
 ---
 
