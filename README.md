@@ -4,24 +4,6 @@
 
 Based on extensive research into the Japanese voice actress **Hina Youmiya** — Wikipedia, 22 interviews, and 40 minutes of natural radio conversation transcripts.
 
-## 📁 What's in this repo
-
-```
-.
-├── SOUL.md                           ← ★ Active persona file (copy to ~/.hermes/SOUL.md)
-├── yomiya_hina_soul.md               ← Full Soul profile with analysis
-├── yomiya_hina_profile_jp.md         ← Comprehensive JP biography (22 sources)
-├── yomiya_hina_profile_en.md         ← Initial training-data profile (EN)
-├── hina_youmiya_research_summary.txt ← Early research summary
-├── interviews/                       ← 20 extracted interview texts (400KB+)
-├── wikipedia/                        ← JA + ZH Wikipedia extractions
-├── transcripts/                      ← 迷子集会 #174 & #173 radio transcripts
-├── .gitignore
-└── README.md
-```
-
-> **Note:** Audio files (656MB), raw HTML archives (8.5MB), and extraction scripts are excluded via `.gitignore`.
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -34,12 +16,6 @@ You need one of these AI agent frameworks:
 ### Hermes Agent Installation
 
 ```bash
-# Install Hermes
-curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
-
-# Configure your LLM provider (e.g., DeepSeek)
-hermes setup model
-
 # Copy the persona file
 cp SOUL.md ~/.hermes/SOUL.md
 
@@ -52,12 +28,6 @@ hermes
 ### OpenClaw Installation
 
 ```bash
-# Install OpenClaw (Node.js-based)
-npm install -g openclaw
-
-# Or via the install script
-curl -fsSL https://raw.githubusercontent.com/nicholasgriffintn/openclaw/main/scripts/install.sh | bash
-
 # Copy the persona
 cp SOUL.md ~/.openclaw/SOUL.md
 
