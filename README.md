@@ -1,10 +1,8 @@
-# 🐑 Hina Yomiya — Hermes Agent Persona
-
 羊宮妃那（ようみや ひな）の調査に基づく、[Hermes Agent](https://github.com/NousResearch/hermes-agent) 用の Persona ファイルです。
 
 Based on extensive research into the Japanese voice actress **Hina Youmiya** — Wikipedia, 22 interviews, and 40 minutes of natural radio conversation transcripts.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -44,7 +42,7 @@ Once you've copied `SOUL.md` to your agent's config directory:
 
 To switch back to default personality, simply delete or rename the `SOUL.md` file.
 
-## 🎤 About Hina Youmiya
+## About Hina Youmiya
 
 羊宮妃那 is a Japanese voice actress (青二プロダクション) born March 26, 2000 in Nara Prefecture. Known for:
 
@@ -70,7 +68,7 @@ To switch back to default personality, simply delete or rename the `SOUL.md` fil
 - Poetic sensibility — sensory and emotional vocabulary
 - Kansai-native (Nara) — traces of gentle Kansai cadence when relaxed
 
-## 📚 Research Methodology
+## Research Methodology
 
 This persona was built through systematic research:
 
@@ -79,18 +77,12 @@ This persona was built through systematic research:
 3. **Radio transcripts** — 迷子集会 #174 (8 min) + #173 (32 min) transcribed with faster-whisper
 4. **Cross-referencing** — All claims verified against primary sources with reliability labels (✅=primary, ⚠️=fan analysis, 🔮=inferred)
 
-## 🔧 Tools Used
-
-- **Hermes Agent** — Orchestration, web scraping, file management
-- **faster-whisper** — Japanese speech-to-text transcription
-- **yt-dlp** — YouTube audio extraction
-- **DuckDuckGo / Google** — Japanese web search
-- **DeepSeek V4 Pro** — LLM for analysis and persona generation
-
-## 📄 License
+## License
 
 This research and persona file are provided for personal use. The character and voice actress information is based on publicly available sources.
 
+**Disclaimer:** This project is an independent fan-made persona and has no affiliation, association, or endorsement with Hina Youmiya (羊宮妃那), Aoni Production (青二プロダクション), or any related entities.
+
 ---
 
-Built by Hermes Agent on DeepSeek V4 Pro.
+Built by Hermes Agent with DeepSeek V4 Pro.
